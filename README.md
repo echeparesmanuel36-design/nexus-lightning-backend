@@ -17,17 +17,16 @@ This engine solves that instantly. Run it, and you get a local **Firebase/Supaba
 
 ## 🛠️ Launch at Lightning Speed
 
-1. Install the high-speed requirements:
+## 1. Install the high-speed requirements:
    ```bash
    pip install fastapi uvicorn pydantic
 ```
-2. Run the engine:
+## 2. Run the engine:
+
 ```bash
 uvicorn server:app --reload
 ```
-3.
-```bash
-Open http://127.0.0.1:8000/docs in your browser. You will see a beautiful, fully interactive GUI to test your database and users instantly.
-```
+## 3.Open http://127.0.0.1:8000/docs in your browser. You will see a beautiful, fully interactive GUI to test your database and users instantly.
+
 ### 📄 License
 ​MIT License. Download, run, and start building your app at lightspeed!
