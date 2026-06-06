@@ -29,3 +29,5 @@ uvicorn server:app --reload
 ```bash
 Open http://127.0.0.1:8000/docs in your browser. You will see a beautiful, fully interactive GUI to test your database and users instantly.
 ```
+### 📄 License
+​MIT License. Download, run, and start building your app at lightspeed!
