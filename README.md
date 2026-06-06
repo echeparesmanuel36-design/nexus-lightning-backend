@@ -25,3 +25,7 @@ This engine solves that instantly. Run it, and you get a local **Firebase/Supaba
 ```bash
 uvicorn server:app --reload
 ```
+3.
+```bash
+Open http://127.0.0.1:8000/docs in your browser. You will see a beautiful, fully interactive GUI to test your database and users instantly.
+```
