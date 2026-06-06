@@ -21,3 +21,7 @@ This engine solves that instantly. Run it, and you get a local **Firebase/Supaba
    ```bash
    pip install fastapi uvicorn pydantic
 ```
+2. Run the engine:
+```bash
+uvicorn server:app --reload
+```
